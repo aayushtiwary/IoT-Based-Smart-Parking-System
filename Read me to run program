@@ -1,0 +1,15 @@
+Hi, these steps will help you to run the "IoT based Smart Parking System" Project:-
+
+Step 1: Connect the 9V battery to the battery terminal of the project.
+
+Step 2: After connecting the battery, wifi module will enable a wifi and the green Led will be lit.
+
+Step 3: Then, connect wifi named "AI-THINKER_14305D" with your smartphone.
+
+Step 4: After connecting with wifi, open any browser and type the IP address "192.168.4.1".
+
+Step 5: Then, click the button present in the web page.
+
+Step 6: Then the button will be greyed and then "Booked" will be written on the web page right next to the "click" button and the yellow Led will be lit.
+
+Step 7: And when the Car will be in the booked slot then the green Led will go off and the red Led will glow and hence we parked the car.
